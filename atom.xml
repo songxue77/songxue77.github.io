@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://songxue77.github.io/"/>
-  <updated>2020-08-03T14:37:07.661Z</updated>
+  <updated>2020-08-04T12:35:37.005Z</updated>
   <id>http://songxue77.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python:crawler</title>
+    <link href="http://songxue77.github.io/2020/08/04/python-crawler/"/>
+    <id>http://songxue77.github.io/2020/08/04/python-crawler/</id>
+    <published>2020-08-04T11:43:33.000Z</published>
+    <updated>2020-08-04T12:35:37.005Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="python-크롤링"><a href="#python-크롤링" class="headerlink" title="python 크롤링"></a>python 크롤링</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;python-크롤링&quot;&gt;&lt;a href=&quot;#python-크롤링&quot; class=&quot;headerlink&quot; title=&quot;python 크롤링&quot;&gt;&lt;/a&gt;python 크롤링&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>php:basic_coding_style</title>
